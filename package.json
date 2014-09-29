@@ -139,7 +139,7 @@
     "lodash": "~2.4.1",
     "mime": "~1.2.11",
     "log4js": "~0.6.3",
-    "useragent": "~2.0.4",
+    "useragent": "^2.1.0",
     "graceful-fs": "~2.0.1",
     "connect": "~2.12.0",
     "source-map": "~0.1.31"
